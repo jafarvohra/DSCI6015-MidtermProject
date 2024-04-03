@@ -1,7 +1,7 @@
 # DSCI6015-MidtermProject
 
 ## Cloud-based-PE-Malware-Detection-API
-##Midterm Project for the AI &amp; Cybersecurity Course - University of New Haven - Spring 2024
+## Midterm Project for the AI &amp; Cybersecurity Course - University of New Haven - Spring 2024
 
 **Introduction:**
 
