@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The purpose of this project is to deploy machine learning models for malware classification. This project is comprised of three tasks. The initial task is to train a deep neural network to classify PE files as malware or benign using the Ember opensource dataset, EMBER-2017 v2. EMBER stands for Endgame Malware Benchmark for Research which is a large dataset composed of labeled and unlabeled samples of parsed features of PE header files from binaries. More details about the dataset are available at https://github.com/endgameinc/ember.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The second and third tasks deal with deploying the model to the cloud and creating an endpoint (~API) to the model. As a final task, create a client nothing but a Python script that loads a PE file and classifies it as malicious or benign. The created client uses 'calc.exe' as the sample. One can use any PE file, with no restrictions.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The second and third tasks deal with deploying the model to the cloud and creating an endpoint (~API) to the model. As a final task, create a client with nothing but a Python script that loads a PE file and classifies it as malicious or benign. The created client uses 'calc.exe' as the sample. One can use any PE file, with no restrictions.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The detailed instructions to work on this project are in the Project Instructions file.
 
