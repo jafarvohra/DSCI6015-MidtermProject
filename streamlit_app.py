@@ -71,7 +71,7 @@ if uploaded_file is not None:
 
     # Format the features as required by the model
     formatted_features = format_features(features)
-        st.write("Features formatted!")
+    st.write("Features formatted!")
 
     # Submit the formatted features to the SageMaker endpoint
     prediction = submit_to_endpoint(endpoint_name, formatted_features)
